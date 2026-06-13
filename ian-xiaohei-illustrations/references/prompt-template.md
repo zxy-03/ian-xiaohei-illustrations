@@ -9,7 +9,7 @@ Visual DNA:
 Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-小黑, a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 小黑 must perform the core conceptual action, not decorate the scene. Make 小黑 serious, deadpan, and slightly bizarre, not cute.
+M-O, a small white square cleaning robot from WALL-E with black screen face showing yellow pixel eyes, red warning light on top, single wheel for movement, and a blue cleaning brush arm. M-O must perform the core conceptual action, not decorate the scene. Make M-O serious, meticulous, slightly obsessive-compulsive about cleanliness, and slightly bizarre, not cute.
 
 Theme:
 {正文配图主题}
